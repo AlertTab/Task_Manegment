@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
+    <SelectedDevice>android6Nexus7</SelectedDevice>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.Animated.Vector.Drawable.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.Design.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.v4.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.v7.AppCompat.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.v7.CardView.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.v7.MediaRouter.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.v7.RecyclerView.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\;C:\Users\Alex\Documents\Visual Studio 2015\Projects\Task Manager\packages\Xamarin.Forms.2.3.2.127\</ReferencePath>
+  </PropertyGroup>
+</Project>
